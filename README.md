@@ -1,1 +1,3 @@
-# Awesome Azure DevOps - A Curated List of Azure DevOps Resources 😎
+# Awesome Azure DevOps
+
+## Curated List of Azure DevOps Resources 😎
